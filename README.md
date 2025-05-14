@@ -2,8 +2,6 @@
 
 A classic Brick Breaker game implemented in C++ using OpenGL and GLUT libraries. Break all the bricks with a bouncing ball to win!
 
-![Brick Breaker Game](screenshots/gameplay.png)
-
 ## Features
 
 - Three different game levels with increasing difficulty
@@ -87,10 +85,6 @@ To compile and run this game, you need:
 - `menu.h`: Game menu implementation
 - `paddle.h`: Paddle class implementation
 - `util.h`: Utility functions for drawing and other operations
-
-## Author
-
-- Muhammad Ibrahim Kiani
 
 ## License
 
