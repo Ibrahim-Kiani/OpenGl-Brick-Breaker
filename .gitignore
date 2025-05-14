@@ -1,0 +1,64 @@
+# Compiled Object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio files
+*.ilk
+*.pdb
+*.idb
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Code::Blocks files
+*.depend
+*.layout
+
+# CMake build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Temporary files
+*~
+*.swp
+*.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
